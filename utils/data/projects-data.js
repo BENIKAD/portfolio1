@@ -30,7 +30,7 @@ export const projectsData = [
         description: 'I created a web app using react, that can be use to store users data. This app can be further modify to store books',
         tools: ['React', 'Bootstrap', 'Css', 'Javascript', 'Express', 'MongoDB', ],
         code: '',
-        role: 'Developer Developer',
+        role: 'Full Stack Developer Developer',
         demo: '',
         image: realEstate,
      }
