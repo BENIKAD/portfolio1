@@ -15,6 +15,6 @@ export const experiences = [
     id: 3,
     title: "Junior Front-End Developer",
     company: "Fote Solution",
-    duration: "(Feb 2021 - Jan 2022)"
+    duration: "(Feb 2020 - Jan 2022)"
   }
 ]
