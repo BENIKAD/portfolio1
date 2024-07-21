@@ -1,13 +1,13 @@
 export const experiences = [
   {
     id: 1,
-    title: 'FullStack Developer -Remote',
+    title: 'FullStack Developer - Remote',
     company: "Fote Solution",
     duration: "(Jan 2024 - Present)"
   },
   {
     id: 2,
-    title: "Full-Stack Developer-Remote",
+    title: "Full-Stack Developer - Remote",
     company: "Fote Solution",
     duration: "(Jan 2022 - December 2023)"
   },
