@@ -7,9 +7,9 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "Front-End Developer -Remote",
+    title: "FullStack -Remote",
     company: "Fote Solution",
-    duration: "(March 2022 - December 2023)"
+    duration: "(Jan 2022 - December 2023)"
   },
   {
     id: 3,
